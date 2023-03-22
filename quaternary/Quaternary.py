@@ -3,7 +3,6 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 import pandas as pd
 from collections.abc import Mapping, Sequence
-from ResSimPostProc import SimOutput
 import ternary
 mpl.rcParams['axes.linewidth'] = 1.
 mpl.rcParams['axes.edgecolor'] = 'gray'
