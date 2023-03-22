@@ -30,3 +30,6 @@ quat.set_label4('CO$_2$',pad=0.05)
 '''
 
 Some day I may write actual documentation for this library depending on if anyone finds it useful...
+
+## Citation
+If you want to cite it, open the file CITATION.md.
